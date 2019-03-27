@@ -1,0 +1,10 @@
+<label>
+  What type of businesses interest you?
+</label><br /><br />
+
+<ul id="businesses">
+  <li><label><input type="checkbox" value="realEstate" className="checkbox" />Real Estate</label></li>
+  <li><label><input type="checkbox" value="frachising" className="checkbox" />Franchising</label></li>
+  <li><label><input type="checkbox" value="contentCreation" className="checkbox" />Content Creation</label></li>
+</ul>
+ 
